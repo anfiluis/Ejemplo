@@ -6,4 +6,4 @@ JSGL es una biblioteca para la visualización interactiva de grandes conjuntos d
 
 **Con el apoyo de :**
 * [Grupo ANFI](https://www.grupoanfi.com)
-* [Math Decision](https://www.mathdecision.com)
+* [Math Decision](https://www.github.com)
