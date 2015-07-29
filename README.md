@@ -6,7 +6,7 @@ JSGL es una biblioteca para la visualización interactiva de grandes conjuntos d
 
 
 ![GitHub Logo](http://www.grupoanfi.com/images/zt_genius/images/Logo%20Anfi.jpg)
-Format: ![Alt Text](url)
+Format: ![Alt Text](http://www.grupoanfi.com/images/zt_genius/images/Logo%20Anfi.jpg)
 
 **Con el apoyo de :**
 * [Grupo ANFI](http://www.grupoanfi.com)
