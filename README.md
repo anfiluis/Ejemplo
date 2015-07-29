@@ -4,6 +4,10 @@
 
 JSGL es una biblioteca para la visualización interactiva de grandes conjuntos de datos, utilizando javascritp y las últimas tecnologías web. Su objetivo es proporcionar una manera elegante para la construcción concisa de nuevos gráficos al estilo  D3 js (Data-Driven Documents).
 
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 **Con el apoyo de :**
 * [Grupo ANFI](http://www.grupoanfi.com)
 * [Math Decision](http://www.mathdecision.com)
