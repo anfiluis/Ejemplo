@@ -6,8 +6,9 @@ JSGL es una biblioteca para la visualización interactiva de grandes conjuntos d
 
 
 * [Inicio rapido](http://nbviewer.ipython.org/gist/luisbt/564161897db3262f92cf) 
+* [Inicio rapido](http://nbviewer.ipython.org/gist/luisbt/564161897db3262f92cf)
 
-
+Por: *Sebastian Alvarez* 
 **Con el apoyo de :**
 * [Grupo ANFI](http://www.grupoanfi.com) 
 * [Math Decision](http://www.mathdecision.com) 
